@@ -1,0 +1,9 @@
+Origin: Ziph0n's Cydia Repository
+Label: Ziph0n's Cydia Repository
+Suite: stable
+Version: 1.0
+Codename: Ziph0n
+Architectures: iphoneos-arm
+Components: main
+Description: Ziph0n's Cydia Repository
+MD5Sum:
